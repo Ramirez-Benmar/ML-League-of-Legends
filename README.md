@@ -1,4 +1,4 @@
-# STINTSY-S18-Group1
+# League of Legends Worlds Data Analysis
  
 STINTSY Machine Project
 
